@@ -1,6 +1,3 @@
-Here’s your **README** for the Stable Diffusion CLI tool—clean, link-free, and enriched with accurate citations from Hugging Face documentation to support technical choices.
-
----
 
 # 🖼️ Stable Diffusion CLI — README
 
@@ -23,9 +20,9 @@ A lightweight Python command-line tool that converts a text prompt into an AI-ge
 
 * Takes a prompt from the command-line when you run:
 
-  ```bash
+  
   python generate_image.py "a creative prompt here"
-  ```
+  
 
 * If no prompt is given, it prints usage instructions and exits.
 
